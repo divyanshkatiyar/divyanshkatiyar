@@ -9,7 +9,7 @@
 - Python Programming  
 - C Programming
 - MySQL-Python connectivity applications  
-- HTML/CSS  
+- HTML/CSS + JAVA 
 - AutoCAD (basic)  
 - Engineering (basics)  
 - Computer Networking  
