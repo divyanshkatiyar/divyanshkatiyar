@@ -14,6 +14,7 @@
 - AutoCAD (basic)  
 - Engineering (basics)  
 - Computer Networking
+- Cyber Security & Ethical programming
 
 ## Goals
 - Build Software projects  
