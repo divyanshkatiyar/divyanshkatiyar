@@ -35,6 +35,6 @@
 ---
 
 ## Academic Achievements 🎓
-- Pursuing B.Tech from HBTU Kanpur with 8.636 SGPA
-- Passed Intermediate with 95.4 % from CBSE Board
-- Passed High School with 91.2 % from CBSE Board 
+- Pursuing B.Tech in Civil Engineering with 8.636 SGPA since 2025
+- Passed Intermediate with 95.4 % from CBSE Board in 2024
+- Passed High School with 91.2 % from CBSE Board in 2022
