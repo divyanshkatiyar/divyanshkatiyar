@@ -1,9 +1,12 @@
 <div align="center">
 
 # Hi, I'm Divyansh Katiyar 👋
-### *Revolutionising Computer Science & Engineering* 
+### *Revolutionizing the world of Computer Science & Engineering* 
 </div>
 
+---
+
+## About 🧑🏻‍💻
 👷🏻‍♂️ Civil Engineering student  
 💻 Working on major Python projects  
 🔧 Interested in Android OS  
