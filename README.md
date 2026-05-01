@@ -1,22 +1,27 @@
 # Hi, I'm Divyansh Katiyar 👋
 
-🎓 Civil Engineering student  
-💻 Learning Python, C, SQL, HTML, Networking  
-🔧 Interested in Civil + CSE  
-📅 GitHub active since 2022  
-📚 Curious & passionate about learning, building and improving 
+👷🏻‍♂️ Civil Engineering student  
+💻 Working on major Python projects
+🔧 Interested in Android OS
+📅 GitHub active since 2022
+📚 Curious & passionate about learning, building, and improving 
 
-## Skills
+## Skills ⚙️
 - Python Programming  
 - C Programming
 - MySQL-Python connectivity applications  
 - HTML/CSS + JAVA 
-- AutoCAD (basic)  
-- Engineering (basics)  
 - Computer Networking
 - Cyber Security & Ethical programming
+- AutoCAD
+- Advanced in-depth knowledge of Android OS 
 
-## Goals
-- Build Software projects  
-- Learn Artificial Intelligence + Machine Learning 
-- Learn software + engineering together  
+## Future Goals ⚡️
+- To automate Civil Engineering
+- To build intelligent systems using Artificial Intelligence + Machine Learning + Deep Learning
+- To start developing my own Operating System
+
+## Academic Achievements 🎓
+- Pursuing B.Tech from HBTU Kanpur with 8.636 SGPA
+- Passed Intermediate with 95.4 % from CBSE Board
+- Passed High School with 91.2 % from CBSE Board 
