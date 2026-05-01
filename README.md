@@ -1,9 +1,9 @@
 # Hi, I'm Divyansh Katiyar 👋
 
 👷🏻‍♂️ Civil Engineering student  
-💻 Working on major Python projects
-🔧 Interested in Android OS
-📅 GitHub active since 2022
+💻 Working on major Python projects 
+🔧 Interested in Android OS 
+📅 GitHub active since 2022 
 📚 Curious & passionate about learning, building, and improving 
 
 ## Skills ⚙️
