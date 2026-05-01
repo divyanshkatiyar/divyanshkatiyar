@@ -16,13 +16,14 @@
 ---
 
 ## Skills ⚙️
-- Python Programming  
+- Python Programming   
 - C Programming
 - MySQL-Python connectivity applications  
 - HTML/CSS + JAVA 
 - Computer Networking
 - Cyber Security & Ethical programming
 - AutoCAD
+- Smart Infrastructure
 - Advanced in-depth knowledge of Android OS
 
 ---
