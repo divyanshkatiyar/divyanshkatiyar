@@ -24,18 +24,18 @@
 - Cyber Security & Ethical programming
 - AutoCAD
 - Smart Infrastructure
-- Advanced in-depth knowledge of Android OS
+- Data Science and Machine Learning skills 
 
 ---
 
 ## Future Goals ⚡️
 - To automate Civil Engineering
 - To build intelligent systems using Artificial Intelligence + Machine Learning + Deep Learning
-- To start developing my own Operating System
+- To develop Artifical Intelligence Equipped Smart Infrastructure (AIESI)
 
 ---
 
 ## Academic Achievements 🎓
-- Pursuing B.Tech in Civil Engineering with 8.636 SGPA since 2025
+- Pursuing B.Tech in Civil Engineering with 8.727 CGPA since 2025
 - Passed Intermediate with 95.4 % from CBSE Board in 2024
 - Passed High School with 91.2 % from CBSE Board in 2022
