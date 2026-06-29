@@ -8,7 +8,7 @@
 
 ## About 🧑🏻‍💻
 👷🏻‍♂️ Civil Engineering student  
-💻 Built strong CSE and coding skills 
+💻 Built strong CSE and coding skills  
 🔧 Actively adapting to new technologies  
 📅 GitHub active since 2022  
 📚 Curious & passionate about learning, building, and improving  
