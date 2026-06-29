@@ -19,7 +19,7 @@
 - Python Programming   
 - C/C++ Programming
 - DBMS skills (MySQL-Python connectivity applications)
-- HTML/CSS + JAVASCRIPT full-stack web development skill 
+- HTML/CSS + JavaScript full-stack web development skill 
 - Deep understanding of Computer Networking & Cyber Security 
 - AutoCAD and Smart Infrastructure skills
 - Data Science, Artificial intelligence & Machine Learning skills 
