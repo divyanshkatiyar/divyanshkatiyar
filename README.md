@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Divyansh Katiyar 👋
-### *Revolutionizing the world of Computer 💻 Science 🧪  & Engineering ⚙️* 
 </div>
 
 ---
