@@ -14,7 +14,7 @@
 👷🏻‍♂️ Civil Engineering student  
 💻 Built strong CSE and coding skills  
 🔧 Actively adapting to new technologies  
-📅 GitHub active since 2022  
+📅 Contributing on GitHub since 2022  
 📚 Curious & passionate about learning, building, and improving  
 
 ---
@@ -40,6 +40,6 @@
 ## Academic Achievements 🎓
 - Pursuing B.Tech in Civil Engineering with 8.727 CGPA since 2025 
 - Qualified JEE Advanced 2025 
-- Qualified JEE Mains 2025 with ~ 91 Percentile 
+- Qualified JEE Mains 2024, 2025 & 2026 Top-Tier Percentiles 
 - Passed Intermediate with 95.4 % from CBSE in 2024 (96% in Computer Science)
 - Passed High School with 91.2 % from CBSE in 2022 
