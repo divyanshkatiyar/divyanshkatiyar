@@ -4,8 +4,8 @@
 # https://www.linkedin.com/in/divyansh-katiyar-5725a441b
 
 ---
-## Top Repositories
-### https://github.com/divyanshkatiyar/Calcupress
+## 🎉 Calcupress is now live !
+### https://divyanshkatiyar.github.io/Calcupress/
 </div>
 
 ---
