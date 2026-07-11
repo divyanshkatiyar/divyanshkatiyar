@@ -25,7 +25,7 @@
 - Machine Learning
 - Artificial intelligence
 - Data Science
-- C/C++ Programming
+- C/C++ and Java Programming 
 - Python Programming 
 - DBMS (MySQL-Python connectivity applications) 
 - HTML/CSS + JavaScript full-stack web developer
