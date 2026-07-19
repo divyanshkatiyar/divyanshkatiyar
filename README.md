@@ -50,5 +50,5 @@
 - Pursuing B.Tech in Civil Engineering with 8.727 CGPA since 2025 
 - Qualified JEE Advanced 2025 
 - Qualified JEE Main 2024, JEE Main 2025 & JEE Main 2026 
-- Passed Intermediate with 95.4 % from CBSE in 2024 ( 96% in Computer Science )
+- Passed Intermediate with 95.4 % from CBSE in 2024  ( 96% in Computer Science and Engineering )
 - Passed High School with 91.2 % from CBSE in 2022 
