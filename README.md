@@ -2,7 +2,6 @@
 
 # Hi, I'm Divyansh Katiyar 👋
 ## https://www.linkedin.com/in/divyansh-katiyar-5725a441b
-
 ---
 ## 🎉 Calcupress is now live !
 https://divyanshkatiyar.github.io/Calcupress/
