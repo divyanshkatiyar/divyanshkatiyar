@@ -8,7 +8,6 @@
 </div>
 
 ---
-
 ## About 🧑🏻‍💻
 
 👷🏻‍♂️ Civil Engineering student  
@@ -18,7 +17,6 @@
 📚 Curious & passionate about learning, building, and improving  
 
 ---
-
 ## Knowledge & Skills ⚙️
 
 - Machine Learning
@@ -33,9 +31,9 @@
 - AutoCAD 
 - Problem-solving & competitive coding 
 - Hardware & Digital Electronics 
-- Operating Systems 
----
+- Operating Systems
 
+---
 ## Future Goals ⚡️
 
 - To work efficiently as a software / AIML engineer
@@ -43,7 +41,6 @@
 - To develop Artifical Intelligence Equipped Smart Infrastructure (AIESI)
 
 ---
-
 ## Academic Achievements 🎓
 
 - Pursuing B.Tech in Civil Engineering with 8.727 CGPA since 2025 
