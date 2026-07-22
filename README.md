@@ -20,18 +20,18 @@
 - Machine Learning 
 - Artificial Intelligence 
 - Data Science 
-- C / C++ & Java Programming 
+- C / C++  &  Java Programming 
 - Python Programming 
 - DBMS ( MySQL-Python connectivity applications ) 
 - HTML/CSS + JavaScript ( full-stack web development ) 
-- Computer Networking & Cyber Security 
+- Computer Networking  &  Cyber Security 
 - AutoCAD 
-- Hardware & Digital Electronics 
+- Hardware  &  Digital Electronics 
 - Operating Systems 
-- Deep Learning & Neural Networks 
+- Deep Learning  &  Neural Networks
+
 ---
 ## Aim & Objective 🎯
-
 > Build, learn and share valuable resources for coding rounds, placement interviews and self-learning while growing as an Engineer.
 
 ---
