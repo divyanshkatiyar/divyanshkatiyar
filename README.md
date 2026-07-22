@@ -9,7 +9,6 @@
 
 ---
 ## About 🧑🏻‍💻
-
 👷🏻‍♂️ Civil Engineering student  
 💻 Built strong CSE and coding skills  
 🔧 Actively adapting to new technologies  
@@ -18,7 +17,6 @@
 
 ---
 ## Knowledge & Skills ⚙️
-
 - Machine Learning 
 - Artificial Intelligence 
 - Data Science 
@@ -38,7 +36,6 @@
 
 ---
 ## Academic Achievements 🎓
-
 - Pursuing B.Tech in Civil Engineering with 8.727 CGPA since 2025 
 - Qualified JEE Advanced 2025 
 - Qualified JEE Main 2024, JEE Main 2025 & JEE Main 2026 
