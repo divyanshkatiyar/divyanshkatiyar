@@ -19,20 +19,18 @@
 ---
 ## Knowledge & Skills ⚙️
 
-- Machine Learning
+- Machine Learning 
 - Artificial Intelligence 
-- Data Science
+- Data Science 
 - C / C++ & Java Programming 
 - Python Programming 
-- DBMS (MySQL-Python connectivity applications) 
-- HTML/CSS + JavaScript full-stack web developer
-- Computer Networking
-- Cyber Security 
+- DBMS ( MySQL-Python connectivity applications ) 
+- HTML/CSS + JavaScript ( full-stack web development ) 
+- Computer Networking & Cyber Security 
 - AutoCAD 
-- Problem-solving & competitive coding 
 - Hardware & Digital Electronics 
-- Operating Systems
-
+- Operating Systems 
+- Deep Learning & Neural Networks 
 ---
 ## Aim & Objective 🎯
 
