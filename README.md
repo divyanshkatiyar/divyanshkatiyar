@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Divyansh Katiyar 👋
-# https://www.linkedin.com/in/divyansh-katiyar-5725a441b
+## https://www.linkedin.com/in/divyansh-katiyar-5725a441b
 
 ---
 ## 🎉 Calcupress is now live !
