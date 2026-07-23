@@ -32,11 +32,7 @@
 - Deep Learning & Neural Networks
 
 ---
-## Aim 🎯
-> To Build impactful software with focus on Data Structures & Algorithms, Artificial Intelligence, Machine Learning and full-stack web & app development.
-
----
-## Objective 🌟
+## Aim & Objective 🎯
 > Build, learn and share valuable resources for coding rounds, placement interviews and self-learning while growing as an Engineer.
 
 ---
