@@ -33,7 +33,9 @@
 
 ---
 ## Aim & Objective 🎯
-> Build, learn and share valuable resources for coding rounds, placement interviews and self-learning while growing as an Engineer.
+> **Aim**: Building impactful software while focusing on Data Structures & Algorithms, Artificial Intelligence, Machine Learning and full-stack development.
+> **Objective**: Build, learn and share valuable resources for coding rounds, placement interviews and self-learning while growing as an Engineer.
+
 
 ---
 ## Academic Achievements 🎓
