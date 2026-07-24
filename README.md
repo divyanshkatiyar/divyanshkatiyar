@@ -5,8 +5,7 @@
 </div>
 
 ---
-## 🎉 Calcupress is now live !
-### https://divyanshkatiyar.github.io/Calcupress/
+### Calcupress(PWA) https://divyanshkatiyar.github.io/Calcupress/
 
 ---
 ## About 🧑🏻‍💻
