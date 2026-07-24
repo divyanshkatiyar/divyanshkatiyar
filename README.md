@@ -9,14 +9,11 @@
 
 ---
 ## About 🧑🏻‍💻
-👷🏻‍♂️ Civil Engineering student  
-💻 Built strong CSE and coding skills  
-🔧 Actively adapting to new technologies  
-📅 Developing technologies on GitHub since 2022  
+⚡️ Electronics Engineering student 
 📚 Curious & passionate about learning, building, and improving  
 
 ---
-## Knowledge & Skills ⚙️
+## Knowledge & Skills 💻
 - Machine Learning 
 - Artificial Intelligence 
 - Data Science 
@@ -32,11 +29,11 @@
 
 ---
 ## Aim & Objective 🎯
-> Build, learn and share valuable resources for coding rounds, placement interviews and self-learning while growing as an Engineer.
+> Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews.
 
 ---
 ## Academic Achievements 🎓
-- Pursuing B.Tech in Civil Engineering with 8.727 CGPA since 2025 
+- Pursuing B.Tech Electronics Engineering with 8.727 CGPA since 2025 
 - Qualified JEE Advanced 2025 
 - Qualified JEE Main 2024, JEE Main 2025 & JEE Main 2026 
 - Passed Intermediate with 95.4 % from CBSE in 2024  ( 96% in Computer Science )
