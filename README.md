@@ -9,8 +9,7 @@
 
 ---
 ## About 🧑🏻‍💻
-⚡️ Electronics Engineering student  
-📚 Curious & passionate about learning, building, and improving  
+> An aspiring software / AIML Engineer committed to learn, build and improve. 
 
 ---
 ## Knowledge & Skills 💻
@@ -33,7 +32,7 @@
 
 ---
 ## Academic Achievements 🎓
-- Pursuing B.Tech Electronics Engineering with 8.727 CGPA since 2025 
+- Pursuing B.Tech Electronics Engineering ⚡️ with 8.727 CGPA since 2025 
 - Qualified JEE Advanced 2025 
 - Qualified JEE Main 2024, JEE Main 2025 & JEE Main 2026 
 - Passed Intermediate with 95.4 % from CBSE in 2024  ( 96% in Computer Science )
