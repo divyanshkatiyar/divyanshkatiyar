@@ -1,8 +1,10 @@
 <div align="center">
 
 # Hi, I'm Divyansh Katiyar 👋🏻
+<font size="5">
 **[LinkedIn](https://www.linkedin.com/in/divyansh-katiyar-5725a441b)**
 **[LeetCode](https://leetcode.com/u/divyansh-katiyar)**
+</font>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
