@@ -3,6 +3,7 @@
 # Hi, I'm Divyansh Katiyar 👋🏻 
 **[LinkedIn](https://www.linkedin.com/in/divyansh-katiyar-5725a441b)** 
 **[LeetCode](https://leetcode.com/u/divyansh-katiyar)**
+</div>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
