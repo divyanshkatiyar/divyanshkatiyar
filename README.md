@@ -9,7 +9,7 @@
 
 ---
 ## About 🧑🏻‍💻
-⚡️ Electronics Engineering student 
+⚡️ Electronics Engineering student  
 📚 Curious & passionate about learning, building, and improving  
 
 ---
