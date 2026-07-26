@@ -30,7 +30,7 @@
 | Project | About | Type | Live Demo |
 |:--------|:----|:----|:----|
 | **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You Scientific Calculator & Unit Converter | PWA | **[Live Demo](https://divyanshkatiyar.github.io/Calcupress/)** |
-| **[Eduworx](https://github.com/divyanshkatiyar/web-app-dev)** | CRUD based Enterprise Resource Planning App | PWA | Coming Soon |
+| **[EduVorx](https://github.com/divyanshkatiyar/web-app-dev)** | CRUD based ERP Application | PWA | Coming Soon |
 |  |  |  |  |
 |  |  |  |  |
 
