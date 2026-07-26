@@ -27,12 +27,12 @@
 ---
 ### 📌 Featured Projects
 
-| Project | About | Live Demo |
-|:--------|:----| :----|
-| **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You-inspired PWA Scientific Calculator & Unit Converter. | **[Live Demo](https://divyanshkatiyar.github.io/Calcupress/)** |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Project | About | Type | Live Demo |
+|:--------|:----|:----|:----|
+| **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You Scientific Calculator & Unit Converter | PWA | **[Live Demo](https://divyanshkatiyar.github.io/Calcupress/)** |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 ---
 ## About 🧑🏻‍💻
