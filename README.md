@@ -26,7 +26,13 @@
 
 ---
 ### 📌 Featured Projects
-* **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** - Material You-inspired PWA Scientific Calculator & Unit Converter. 
+
+| Project | About | Live Demo |
+|:--------|:----| :----|
+| **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You-inspired PWA Scientific Calculator & Unit Converter. | **[Live Demo](https://divyanshkatiyar.github.io/Calcupress/)** |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ---
 ## About 🧑🏻‍💻
