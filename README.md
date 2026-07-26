@@ -58,8 +58,8 @@
 > Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews.
 
 ---
-## Academic Achievements 🎓
-- Pursuing B.Tech Electronics Engineering ⚡️ with 8.727 CGPA since 2025 
-- Qualified JEE Main & JEE Advanced 2025
+## Academic Qualifications 🎓
+- Pursuing B.Tech Electronics Engineering from Harcourt Butler Technical University, Kanpur with 8.727 CGPA
+- Qualified JEE Advanced 2025
 - Passed Intermediate with 95.4 % from CBSE in 2024  ( 96% in Computer Science )
 - Passed High School with 91.2 % from CBSE in 2022 
