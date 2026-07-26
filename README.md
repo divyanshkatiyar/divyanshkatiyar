@@ -59,7 +59,7 @@
 
 ---
 ## Academic Qualifications 🎓
-- Pursuing B.Tech Electronics Engineering from HBTU Kanpur with 8.727 CGPA
+- Pursuing B.Tech Electronics Engineering ⚡️ from HBTU Kanpur with 8.727 CGPA
 - Qualified JEE Advanced 2025
 - Passed Intermediate with 95.4 % from CBSE in 2024  ( 96% in Computer Science )
 - Passed High School with 91.2 % from CBSE in 2022 
