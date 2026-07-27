@@ -4,6 +4,8 @@
 **[LinkedIn](https://www.linkedin.com/in/divyansh-katiyar-5725a441b)** 
 **[LeetCode](https://leetcode.com/u/divyansh-katiyar)**
 
+</div>
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -21,8 +23,6 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-
-</div>
 
 ---
 ### 📌 Featured Projects
