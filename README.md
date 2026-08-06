@@ -35,7 +35,7 @@
 
 ---
 ## About 🧑🏻‍💻
-> An aspiring software / AIML Engineer committed to learn, build and improve. 
+ An aspiring software / AIML Engineer committed to learn, build and improve. 
 
 ---
 ## Knowledge & Skills 💻
