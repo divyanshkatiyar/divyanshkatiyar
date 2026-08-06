@@ -35,7 +35,7 @@
 
 ---
 ## About 🧑🏻‍💻
- An aspiring software / AIML Engineer committed to learn, build and improve. 
+An aspiring software / AIML Engineer committed to learn, build and improve. 
 
 ---
 ## Knowledge & Skills 💻
@@ -54,7 +54,7 @@
 
 ---
 ## Aim & Objective 🎯
-> Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews.
+Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews.
 
 ---
 ## Academic Qualifications 🎓
