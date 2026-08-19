@@ -35,7 +35,7 @@
 
 ---
 ## About 🧑🏻‍💻
-An unstoppable software / AIML Engineer committed to learn, build and improve — all without a laptop 💻 
+An unstoppable software / AIML Engineer committed to learn, build and improve — even without laptop 💻 
 
 ---
 ## Knowledge & Skills 💻
