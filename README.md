@@ -35,7 +35,7 @@
 
 ---
 ## About 🧑🏻‍💻
-An unstoppable software / AIML Engineer committed to learn, build and improve —— all without a laptop 💻 
+An unstoppable software / AIML Engineer committed to learn, build and improve — all without a laptop 💻 
 
 ---
 ## Knowledge & Skills 💻
@@ -54,7 +54,7 @@ An unstoppable software / AIML Engineer committed to learn, build and improve �
 
 ---
 ## Aim & Objective 🎯
-Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews —— all using mobile phone 📱 
+Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews — all on mobile phone 📱 
 
 ---
 ## Academic Qualifications 🎓
