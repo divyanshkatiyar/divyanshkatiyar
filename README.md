@@ -35,7 +35,7 @@
 
 ---
 ## About 🧑🏻‍💻
-An unstoppable software / AIML Engineer committed to learn, build and improve — even without laptop 💻 
+An aspiring engineer committed to learn, build and improve — even without laptop 💻 
 
 ---
 ## Knowledge & Skills 💻
@@ -59,6 +59,5 @@ Build impactful software while learning and sharing valuable resources for codin
 ---
 ## Academic Qualifications 🎓
 - Pursuing B.Tech Electronics Engineering ⚡️ from HBTU Kanpur with 8.727 CGPA
-- Qualified JEE Advanced 2025
 - Passed Intermediate with 95.4 % from CBSE in 2024  ( 96% in Computer Science )
 - Passed High School with 91.2 % from CBSE in 2022 
