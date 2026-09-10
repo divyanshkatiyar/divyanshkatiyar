@@ -38,7 +38,7 @@
 Undergraduate engineer bridging hardware design, cyber-physical systems & intelligent software development.
 
 ---
-## Knowledge & Skills 💻
+## Technical Skills 💻
 | Domain | Technologies & Skills |
 | :--- | :--- |
 | **Hardware & RTL Design** | Verilog HDL, RTL Verification, Digital Logic Design, VLSI Fundamentals |
