@@ -29,7 +29,7 @@
 | Project | About | Type | Live Demo |
 |:--------|:----|:----|:----|
 | **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You Scientific Calculator & Unit Converter | PWA | **[Live Demo](https://divyanshkatiyar.github.io/Calcupress/)** |
-| **[ERP App](https://github.com/divyanshkatiyar/web-app-dev)** | CRUD based ERP Application | PWA | Coming Soon |
+| **[EV-BMS](https://github.com/divyanshkatiyar/ev-battery-management-system)** | Real-time cyber-physical powertrain telemetry framework in C++ | Firmware / Systems | Coming Soon |
 |  |  |  |  |
 |  |  |  |  |
 
