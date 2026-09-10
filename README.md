@@ -30,7 +30,7 @@
 |:--------|:----|:----|:----|
 | **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You Scientific Calculator & Unit Converter | PWA | **[Live Demo](https://divyanshkatiyar.github.io/Calcupress/)** |
 | **[EV-BMS](https://github.com/divyanshkatiyar/ev-battery-management-system)** | Real-time cyber-physical powertrain telemetry framework in C++ | Firmware / Systems | Coming Soon |
-| **[VLSI](https://github.com/divyanshkatiyar/digital-logic-and-vlsi)** |  |  |  |
+| **[VLSI](https://github.com/divyanshkatiyar/digital-logic-and-vlsi)** | Development workspace for synthesizable RTL Design & verification | Digital Design | Verilog |
 |  |  |  |  |
 
 ---
