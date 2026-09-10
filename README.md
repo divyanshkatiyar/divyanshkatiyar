@@ -35,26 +35,21 @@
 
 ---
 ## About 🧑🏻‍💻
-An aspiring engineer committed to learn, build and improve — even without laptop 💻 
+Undergraduate engineer bridging hardware design, cyber-physical systems & intelligent software development.
 
 ---
 ## Knowledge & Skills 💻
-- Machine Learning 
-- Artificial Intelligence 
-- Data Science 
-- C / C++ & Java Programming 
-- Python Programming 
-- DBMS ( MySQL-Python connectivity applications ) 
-- HTML/CSS + JavaScript ( full-stack web development ) 
-- Computer Networking & Cyber Security 
-- AutoCAD 
-- Hardware & Digital Electronics 
-- Operating Systems 
-- Deep Learning & Neural Networks
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Hardware & RTL Design** | Verilog HDL, RTL Verification, Digital Logic Design, VLSI Fundamentals |
+| **Embedded & Systems** | Embedded C++, C, Cyber-Physical Systems, Operating Systems, Computer Networks|
+| **Software & AI** | Python, Data Structures & Algorithms, Machine Learning, Data Science, DBMS-SQL, JavaScript, HTML5/CSS3, PWA |
+| **Tools** | Git/GitHub, MATLAB, Arduino |
+ 
 
 ---
 ## Aim & Objective 🎯
-Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews — all on mobile phone 📱 
+Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews
 
 ---
 ## Academic Qualifications 🎓
