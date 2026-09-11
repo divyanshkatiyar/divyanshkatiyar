@@ -43,7 +43,7 @@ Undergraduate engineer bridging hardware design & intelligent software developme
 | :--- | :--- |
 | **Software Development** | C++, Data Structures & Algorithms, DBMS - SQL, JavaScript, HTML, CSS, Full Stack Developer |
 | **Machine Learning** | Python, Data Science, Artificial Intelligence, Deep Learning, MATLAB |
-| **Hardware & RTL Design** | Verilog HDL, RTL Verification, Digital Logic Design, VLSI Fundamentals |
+| **Hardware & RTL Design** | Verilog HDL, RTL Verification, Digital Logic Design, VLSI |
 | **Embedded Systems** | Embedded C++, C, Operating Systems, Computer Networks, Arduino |
 
 
