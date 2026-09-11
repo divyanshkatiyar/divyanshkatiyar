@@ -28,7 +28,7 @@
 
 | Project | About | Type | Live Demo |
 |:--------|:----|:----|:----|
-| **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You Scientific Calculator & Unit Converter | PWA | **[Live Demo](https://divyanshkatiyar.github.io/Calcupress/)** |
+| **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You Scientific Calculator & Unit Converter | Full-Stack Software | **[Live Demo](https://divyanshkatiyar.github.io/Calcupress/)** |
 | **[EV-BMS](https://github.com/divyanshkatiyar/ev-battery-management-system)** | Real-time cyber-physical powertrain telemetry framework in C++ | Firmware / Systems | Coming Soon |
 | **[VLSI DV](https://github.com/divyanshkatiyar/digital-logic-and-vlsi)** | Development workspace for synthesizable RTL Design & Verification | Digital Design | Verilog |
 |  |  |  |  |
@@ -41,11 +41,11 @@ Undergraduate engineer bridging hardware design & intelligent software developme
 ## Technical Skills 💻
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Hardware & RTL Design** | Verilog HDL, RTL Verification, Digital Logic Design, VLSI Fundamentals |
-| **Embedded Systems** | Embedded C++, C, Operating Systems, Computer Networks, Arduino |
 | **Software Development** | C++, Data Structures & Algorithms, DBMS - SQL, JavaScript, HTML, CSS, Full Stack Developer |
 | **Machine Learning** | Python, Data Science, Artificial Intelligence, Deep Learning, MATLAB |
- 
+| **Hardware & RTL Design** | Verilog HDL, RTL Verification, Digital Logic Design, VLSI Fundamentals |
+| **Embedded Systems** | Embedded C++, C, Operating Systems, Computer Networks, Arduino |
+
 
 ---
 ## Aim & Objective 🎯
