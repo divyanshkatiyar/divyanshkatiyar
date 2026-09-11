@@ -35,16 +35,16 @@
 
 ---
 ## About 🧑🏻‍💻
-Undergraduate engineer bridging hardware design, cyber-physical systems & intelligent software development.
+Undergraduate engineer bridging hardware design & intelligent software development.
 
 ---
 ## Technical Skills 💻
 | Domain | Technologies & Skills |
 | :--- | :--- |
 | **Hardware & RTL Design** | Verilog HDL, RTL Verification, Digital Logic Design, VLSI Fundamentals |
-| **Embedded & Systems** | Embedded C++, C, Cyber-Physical Systems, Operating Systems, Computer Networks|
-| **Software & AI** | Python, Data Structures & Algorithms, Machine Learning, Data Science, DBMS-SQL, JavaScript, HTML5/CSS3, PWA |
-| **Tools** | Git/GitHub, MATLAB, Arduino |
+| **Embedded Systems** | Embedded C++, C, Operating Systems, Computer Networks, Arduino |
+| **Software Development** | C++, Data Structures & Algorithms, DBMS - SQL, JavaScript, HTML, CSS, Full Stack Developer |
+| **Machine Learning** | Python, Data Science, Artificial Intelligence, Deep Learning, MATLAB |
  
 
 ---
