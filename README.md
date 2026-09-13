@@ -35,8 +35,7 @@
 
 ---
 ## About 🧑🏻‍💻
-Undergraduate engineer bridging hardware design & intelligent software development.
-
+Software developer engineering hardware designs and intelligent software solutions.
 ---
 ## Technical Skills 💻
 | Domain | Technologies & Skills |
