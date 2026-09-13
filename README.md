@@ -36,6 +36,7 @@
 ---
 ## About 🧑🏻‍💻
 Software developer engineering hardware designs and intelligent software solutions.
+
 ---
 ## Technical Skills 💻
 | Domain | Technologies & Skills |
