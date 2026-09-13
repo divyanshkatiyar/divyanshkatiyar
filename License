@@ -1,0 +1,140 @@
+PROPRIETARY SOFTWARE LICENSE & COPYRIGHT NOTICE
+
+Copyright © 2026 Divyansh Katiyar. All Rights Reserved.
+
+Effective Date: 14 September 2026
+
+1. COPYRIGHT OWNERSHIP
+
+This Software, including its original source code, object code, scripts, architecture, documentation, original graphical elements, original textual content, and other original copyrightable materials, is protected by applicable copyright law, including the Copyright Act, 1957 of India, as amended from time to time.
+
+Except for expressly identified third-party materials, all copyright and other intellectual-property rights in the original materials comprising this Software are reserved by and remain with Divyansh Katiyar ("Copyright Holder").
+
+Publication of this Software on GitHub or any other publicly accessible platform does not constitute a transfer, assignment, abandonment, or waiver of copyright ownership.
+
+2. NO GENERAL LICENSE
+
+Except for the limited permissions expressly stated in this Agreement, no license, authorization, ownership interest, or other right is granted to any person or entity in relation to the Software.
+
+Access to, viewing of, or downloading of the repository does not by itself constitute permission to reproduce, distribute, commercially exploit, modify, or create derivative works from the Software.
+
+3. LIMITED PERSONAL LICENSE
+
+Subject to compliance with this Agreement, the Copyright Holder grants a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Software solely for personal, private, research, demonstration, and educational purposes.
+
+This license does not grant permission for commercial exploitation.
+
+4. PROHIBITED USES
+
+Without prior written authorization from the Copyright Holder, no person or entity may, to the extent prohibited by applicable law:
+
+1. reproduce or substantially reproduce the Software;
+2. distribute, publish, republish, or redistribute the Software;
+3. sell, license, sublicense, rent, lease, or otherwise commercially exploit the Software;
+4. incorporate substantial portions of the Software into another software product or service;
+5. create or distribute derivative works based upon the Software;
+6. remove, conceal, alter, or obscure copyright or proprietary notices;
+7. represent the Software or substantial portions thereof as independently created by another person;
+8. use substantial portions of the Software as the basis of a competing product or service;
+9. grant or purport to grant rights to third parties that the User does not possess under this Agreement; or
+10. otherwise exercise rights reserved exclusively to the Copyright Holder without authorization.
+
+Nothing in this section shall prohibit conduct that cannot lawfully be restricted under applicable law.
+
+5. COPYRIGHT NOTICE
+
+All authorized copies of the Software or substantial portions thereof must retain the following notice:
+
+Copyright © 2026 Divyansh Katiyar. All Rights Reserved.
+
+Removal or intentional alteration of copyright-management information may be subject to applicable legal restrictions.
+
+6. THIRD-PARTY COMPONENTS
+
+This Agreement applies only to materials owned or controlled by the Copyright Holder.
+
+The Software may contain or depend upon third-party libraries, frameworks, APIs, fonts, images, datasets, code, or other materials.
+
+Such materials remain subject to their respective copyright notices and license terms. Nothing in this Agreement grants rights in third-party materials beyond the rights lawfully held by the Copyright Holder.
+
+Where a third-party license grants rights broader than those granted under this Agreement, those rights shall apply only to the relevant third-party material.
+
+7. OPEN-SOURCE COMPONENTS
+
+Where any component is expressly identified as being distributed under an open-source license, that component remains governed by its applicable open-source license.
+
+This Agreement shall not be interpreted as attempting to impose restrictions inconsistent with an applicable third-party open-source license.
+
+8. TRADEMARKS AND BRANDING
+
+No right or license is granted to use the name "Divyansh Katiyar", associated logos, trademarks, service marks, trade names, branding, or other identifiers of the Copyright Holder except as separately authorized or permitted by applicable law.
+
+9. NO WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT EXPRESS, IMPLIED, STATUTORY, OR OTHER WARRANTIES.
+
+THE COPYRIGHT HOLDER DISCLAIMS, TO THE MAXIMUM EXTENT PERMITTED BY LAW, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AVAILABILITY, SECURITY, AND ERROR-FREE OPERATION.
+
+10. USE AT USER'S OWN RISK
+
+The User is responsible for independently evaluating the Software before using, deploying, modifying, or integrating it.
+
+The Software is not represented as suitable for any particular purpose, environment, safety-critical application, regulated activity, or production system unless expressly stated otherwise by the Copyright Holder.
+
+11. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR LOSS OF PROFITS, REVENUE, DATA, BUSINESS, GOODWILL, OR OTHER ECONOMIC LOSS ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS AGREEMENT.
+
+NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR LIMIT LIABILITY TO THE EXTENT SUCH EXCLUSION OR LIMITATION IS PROHIBITED BY APPLICABLE LAW.
+
+12. TERMINATION
+
+Any permission granted under this Agreement shall automatically terminate upon a material violation of its terms.
+
+Following termination, the User shall cease uses that are no longer authorized and shall, where legally required, cease distribution and use of unauthorized copies.
+
+Termination shall not affect any rights, remedies, claims, or liabilities that accrued before termination.
+
+13. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this Agreement are reserved.
+
+Nothing contained in this Agreement shall be interpreted as an assignment, transfer, waiver, abandonment, or relinquishment of copyright or other intellectual-property rights except where expressly stated in writing by the Copyright Holder.
+
+14. NO IMPLIED WAIVER
+
+Failure or delay by the Copyright Holder to enforce any provision of this Agreement shall not constitute a waiver of that provision or prevent subsequent enforcement.
+
+15. SEVERABILITY
+
+If any provision of this Agreement is determined by a competent authority to be invalid, unlawful, or unenforceable, that provision shall be enforced to the maximum extent legally permissible, and the remaining provisions shall continue in effect.
+
+16. AMENDMENTS
+
+The Copyright Holder may publish a revised version of this license for subsequent versions or releases of the Software.
+
+Unless expressly agreed otherwise, a revised license shall not retroactively revoke rights that were validly granted under a prior version.
+
+17. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by the laws applicable in India, subject to mandatory provisions of applicable law.
+
+Any dispute concerning this Agreement or the Software shall be subject to the jurisdiction of courts having lawful jurisdiction over the relevant dispute and parties.
+
+18. STATUTORY RIGHTS
+
+Nothing in this Agreement is intended to exclude, restrict, or contractually override any right, remedy, exception, limitation, or obligation that cannot lawfully be excluded, restricted, or waived under applicable law.
+
+19. ENTIRE AGREEMENT
+
+This document constitutes the complete license terms governing the permissions granted by the Copyright Holder for the Software, except where a separate written agreement expressly supersedes or supplements these terms.
+
+---
+
+COPYRIGHT NOTICE
+
+Copyright © 2026 Divyansh Katiyar. All Rights Reserved.
+
+Unauthorized reproduction, distribution, commercial exploitation, or other use of protected portions of this Software without authorization may constitute copyright infringement or another violation of applicable law.
+
+END OF LICENSE
