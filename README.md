@@ -30,7 +30,7 @@
 |:--------|:----|:----|:----|
 | **[ERP APP](https://github.com/divyanshkatiyar/web-app-dev)** | AI powered Material You expressive CRUD based ERP | Full Stack | **[Click](https://divyanshkatiyar.github.io/web-app-dev/)** |
 | **[VLSI DV](https://github.com/divyanshkatiyar/digital-logic-and-vlsi)** | Development workspace for Synthesizable RTL Design & Verification | Digital Design | Verilog |
-| **[EV-BMS](https://github.com/divyanshkatiyar/ev-battery-management-system)** | Real-time cyber-physical powertrain telemetry framework in C++ | Firmware / Systems | - |
+| **[EV-BMS](https://github.com/divyanshkatiyar/ev-battery-management-system)** | Real-time cyber-physical powertrain telemetry framework in C++ | Embedded / Firmware | - |
 | **[Calcupress](https://github.com/divyanshkatiyar/Calcupress)** | Material You Scientific Calculator & Unit Converter | PWA | **[Click](https://divyanshkatiyar.github.io/Calcupress/)** |
 
 ---
