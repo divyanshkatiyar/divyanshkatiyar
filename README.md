@@ -35,7 +35,7 @@
 
 ---
 ## About 🧑🏻‍💻
-Software developer engineering hardware designs and intelligent software solutions.
+Software developer building intelligent hardware design & software solutions.
 
 ---
 ## Technical Skills 💻
