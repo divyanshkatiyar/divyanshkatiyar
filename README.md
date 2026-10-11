@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Divyansh Katiyar 👋🏻 
+# Hi, I'm Divyansh Katiyar ✨️
 **[LinkedIn](https://www.linkedin.com/in/divyansh-katiyar-5725a441b)** 
 **[LeetCode](https://leetcode.com/u/divyansh-katiyar)**
 
