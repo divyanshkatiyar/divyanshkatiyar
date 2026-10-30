@@ -33,7 +33,7 @@
 
 ---
 ## About 🧑🏻‍💻
-Aspiring engineer designing intelligent hardware & software solutions.
+An aspiring engineer designing intelligent hardware & software solutions.
 
 ---
 ## Technical Skills 💻
