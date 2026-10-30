@@ -33,13 +33,13 @@
 
 ---
 ## About 🧑🏻‍💻
-Software developer designing intelligent hardware & software solutions.
+Aspiring engineer designing intelligent hardware & software solutions.
 
 ---
 ## Technical Skills 💻
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Software Development** | C++, Data Structures & Algorithms, mySQL, JavaScript, HTML, CSS |
+| **Software Development** | C++, Data Structures & Algorithms, MySQL, JavaScript, HTML, CSS |
 | **Machine Learning** | Python, Data Science, Artificial Intelligence, Deep Learning, MATLAB |
 | **Hardware** | Verilog HDL, RTL Design & Verification, VLSI |
 | **Embedded Systems** | Embedded C++, C, Operating Systems, Computer Networks, Arduino |
