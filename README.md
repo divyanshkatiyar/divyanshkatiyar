@@ -40,7 +40,7 @@ Software developer designing intelligent hardware & software solutions.
 ## Technical Skills 💻
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Software Development** | C++, Data Structures & Algorithms, DBMS - SQL, JavaScript, HTML, CSS, Full Stack Developer |
+| **Software Development** | C++, Data Structures & Algorithms, DBMS - SQL, JavaScript, HTML, CSS |
 | **Machine Learning** | Python, Data Science, Artificial Intelligence, Deep Learning, MATLAB |
 | **Hardware** | Verilog HDL, RTL Design & Verification, VLSI |
 | **Embedded Systems** | Embedded C++, C, Operating Systems, Computer Networks, Arduino |
@@ -53,5 +53,4 @@ Build impactful software while learning and sharing valuable resources for codin
 ---
 ## Academic Qualifications 🎓
 - Pursuing B.Tech Electronics Engineering from HBTU Kanpur — 8.727 CGPA
-- Passed Intermediate with 95.4 % from CBSE in 2024  ( 96% in Computer Science )
-- Passed High School with 91.2 % from CBSE in 2022 
+- Passed Intermediate with 95.4 % from CBSE in 2024  ( 96% in Computer Science ) 
