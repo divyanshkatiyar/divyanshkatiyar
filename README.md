@@ -52,4 +52,4 @@ Build impactful software while learning and sharing valuable resources for codin
 ---
 ## Academic Qualifications 🎓
 - Pursuing B.Tech Electronics Engineering — 8.727 CGPA
-- Passed Intermediate with 95.4 % from CBSE Board ( 96% in Computer Science )
+- Passed Intermediate with 95.4 % from CBSE ( 96% in Computer Science )
