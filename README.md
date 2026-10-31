@@ -40,9 +40,9 @@ An aspiring engineer designing intelligent hardware & software solutions.
 | Domain | Technologies & Skills |
 | :--- | :--- |
 | **Software Development** | C++, Data Structures & Algorithms, MySQL, JavaScript, HTML, CSS |
-| **Machine Learning** | Python, Data Science, Artificial Intelligence, Deep Learning, MATLAB |
+| **Machine Learning** | Python, Data Science, Artificial Intelligence, Deep Learning |
 | **Hardware** | Verilog HDL, RTL Design & Verification, VLSI |
-| **Embedded Systems** | Embedded C++, C, Operating Systems, Computer Networks, Arduino |
+| **Embedded Systems** | Embedded C++, C, Operating Systems, Computer Networks |
 
 
 ---
