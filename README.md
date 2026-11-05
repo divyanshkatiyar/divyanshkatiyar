@@ -48,9 +48,3 @@ An aspiring engineer designing intelligent hardware & software solutions.
 ---
 ## Aim & Objective 🎯
 Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews
-
----
-## Academic Qualifications 🎓
-- JEE ADVANCED Qualified
-- Pursuing B.Tech Electronics Engineering — 8.727 CGPA
-- Passed Intermediate with 95.4 % from CBSE ( 96% in Computer Science )
