@@ -44,5 +44,5 @@
 
 
 ---
-## Aim & Objective 🎯
-Build impactful software while learning and sharing valuable resources for coding rounds, placement interviews
+## Aim 🎯
+Building impactful technology and sharing valuable learning resources
