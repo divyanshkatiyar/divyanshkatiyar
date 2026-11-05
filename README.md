@@ -44,5 +44,7 @@
 
 
 ---
-## Aim 🎯
-Building impactful technology and sharing valuable learning resources
+<div align ="center">
+  
+*Building impactful technology • contributing to open-source*
+</div>
