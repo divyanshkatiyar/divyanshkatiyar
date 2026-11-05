@@ -1,6 +1,8 @@
 <div align="center">
 
 # Hi, I'm Divyansh Katiyar 👋🏻 
+🤖 *Designing intelligent hardware & software solutions.*
+
 **[LinkedIn](https://www.linkedin.com/in/divyansh-katiyar-5725a441b)** 
 **[LeetCode](https://leetcode.com/u/divyansh-katiyar)**
 
@@ -30,10 +32,6 @@
 | **[ERP APP](https://github.com/divyanshkatiyar/web-app-dev)** | AI Powered Material3 CRUD based ERP | Full Stack | **[Click](https://divyanshkatiyar.github.io/web-app-dev/)** |
 | **[VLSI DV](https://github.com/divyanshkatiyar/digital-logic-and-vlsi)** | Development workspace for Synthesizable RTL Design & Verification | Digital Design | Verilog |
 | **[EV-BMS](https://github.com/divyanshkatiyar/ev-battery-management-system)** | Real-time cyber-physical powertrain telemetry framework in C++ | Embedded / Firmware | - |
-
----
-## About 🧑🏻‍💻
-An aspiring engineer designing intelligent hardware & software solutions.
 
 ---
 ## Technical Skills 💻
