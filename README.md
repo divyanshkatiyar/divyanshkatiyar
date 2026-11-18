@@ -45,5 +45,5 @@
 ---
 <div align ="center">
   
-*Building impactful technology • contributing to open-source • CalcuPress™ © 2026 Divyansh Katiyar — All rights reserved.*
+*Building impactful technology • contributing to open-source • © 2026 CalcuPress™ Divyansh Katiyar — All rights reserved.*
 </div>
